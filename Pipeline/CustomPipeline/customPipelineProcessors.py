@@ -5,7 +5,7 @@ This script is intended as an example of how to write a custom pipeline
 and does not reproduce entirely the engineering procedures we described in 
 section 2.
 
-This pipeline is not intended to be run as is.
+
 """
 
 import numpy as np
